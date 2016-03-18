@@ -46,7 +46,8 @@ import pt.ipp.estgf.tourguide.Services.GPSTracker;
 public class MainAtivity extends AppCompatActivity implements LocationListener{
 
 
-
+antes de comecares a trabalhar...ok
+    e sempre quequiseres guardar no git fazes...
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
